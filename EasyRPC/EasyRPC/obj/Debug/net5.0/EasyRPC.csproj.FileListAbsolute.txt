@@ -1,0 +1,12 @@
+D:\Rider Projects\EasyRPC\EasyRPC\bin\Debug\net5.0\EasyRPC.deps.json
+D:\Rider Projects\EasyRPC\EasyRPC\bin\Debug\net5.0\EasyRPC.dll
+D:\Rider Projects\EasyRPC\EasyRPC\bin\Debug\net5.0\ref\EasyRPC.dll
+D:\Rider Projects\EasyRPC\EasyRPC\bin\Debug\net5.0\EasyRPC.pdb
+D:\Rider Projects\EasyRPC\EasyRPC\obj\Debug\net5.0\EasyRPC.csproj.AssemblyReference.cache
+D:\Rider Projects\EasyRPC\EasyRPC\obj\Debug\net5.0\EasyRPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\EasyRPC\EasyRPC\obj\Debug\net5.0\EasyRPC.AssemblyInfoInputs.cache
+D:\Rider Projects\EasyRPC\EasyRPC\obj\Debug\net5.0\EasyRPC.AssemblyInfo.cs
+D:\Rider Projects\EasyRPC\EasyRPC\obj\Debug\net5.0\EasyRPC.csproj.CoreCompileInputs.cache
+D:\Rider Projects\EasyRPC\EasyRPC\obj\Debug\net5.0\EasyRPC.dll
+D:\Rider Projects\EasyRPC\EasyRPC\obj\Debug\net5.0\ref\EasyRPC.dll
+D:\Rider Projects\EasyRPC\EasyRPC\obj\Debug\net5.0\EasyRPC.pdb
